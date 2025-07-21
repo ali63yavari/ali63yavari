@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Go, Spring,.NET, DDD, CQRS, RESTful APIs, SQL and NoSQL Databases, Software Architecture, Design Patterns, Testing, CI/CD, Device Drivers on Linux and Windows, Streaming Fundamentals, Digital Design, Blockchain**
 
-- 📫 How to reach me **each out and connect with me on LinkedIn! 👆**
+- 📫 How to reach me **each out and connect with me on LinkedIn!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
